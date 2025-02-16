@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a college student, I fuse my passion for data science and full-stack web development to create<br>innovative solutions. With a knack for hackathons, I collaborate to align technology with strategic<br>objectives, aiming for real-world impact.
+As a college student, I fuse my passion for data science and software development to create<br>innovative solutions. With a knack for hackathons, I collaborate to align technology with strategic<br>objectives, aiming for real-world impact.
 
 
 ## 🌐 Socials:
